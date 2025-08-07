@@ -1,0 +1,14 @@
+numpy
+scipy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tensorflow
+torch
+keras
+jupyterlab
+notebook
+scikit-fuzzy
+streamlit
+networkx
